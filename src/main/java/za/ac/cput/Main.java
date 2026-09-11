@@ -1,5 +1,7 @@
 package za.ac.cput;
 
+// Name: Avuyile Twesha
+
 import java.util.Random;
 import java.util.Scanner;
 
